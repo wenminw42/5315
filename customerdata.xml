@@ -2,7 +2,7 @@
   <customers>
     <data>
       <customername>Julina Smith</customername>
-      <purchase_date>1/1/2018</purchase_date>
+      <purchasedate>1/1/2018</purchasedate>
       <membership>Yes</membership>
       <city>Portland</city>
       <state>OR</state>
@@ -10,7 +10,7 @@
     </data>
     <data>
       <customername>Mark Well</customername>
-      <purchase_date>11/12/2018</purchase_date>
+      <purchasedate>11/12/2018</purchasedate>
       <membership>Yes</membership>
       <city>Portland</city>
       <state>OR</state>
@@ -18,7 +18,7 @@
     </data>
     <data>
       <customername>Mary Volve</customername>
-      <purchase_date>3/18/2018</purchase_date>
+      <purchasedate>3/18/2018</purchasedate>
       <membership>No</membership>
       <city>Yakima</city>
       <state>WA</state>
@@ -26,7 +26,7 @@
     </data>
     <data>
       <customername>Connie Lake</customername>
-      <purchase_date>6/19/2018</purchase_date>
+      <purchasedate>6/19/2018</purchasedate>
       <membership>Yes</membership>
       <city>Olympia</city>
       <state>WA</state>
@@ -34,7 +34,7 @@
     </data>
     <data>
       <customername>Jay Pieth</customername>
-      <purchase_date>1/31/2018</purchase_date>
+      <purchasedate>1/31/2018</purchasedate>
       <membership>No</membership>
       <city>Issaquah</city>
       <state>WA</state>
@@ -42,7 +42,7 @@
     </data>
     <data>
       <customername>Apple Tran</customername>
-      <purchase_date>4/22/2018</purchase_date>
+      <purchasedate>4/22/2018</purchasedate>
       <membership>Yes</membership>
       <city>Portland</city>
       <state>OR</state>
@@ -50,7 +50,7 @@
     </data>
     <data>
       <customername>Keo Thram</customername>
-      <purchase_date>9/1/2018</purchase_date>
+      <purchasedate>9/1/2018</purchasedate>
       <membership>Yes</membership>
       <city>Portland</city>
       <state>OR</state>
@@ -58,7 +58,7 @@
     </data>
     <data>
       <customername>William Malik</customername>
-      <purchase_date>4/30/2018</purchase_date>
+      <purchasedate>4/30/2018</purchasedate>
       <membership>No</membership>
       <city>Portland</city>
       <state>OR</state>
@@ -66,7 +66,7 @@
     </data>
     <data>
       <customername>Samantha Smith</customername>
-      <purchase_date>2/1/2018</purchase_date>
+      <purchasedate>2/16/2018</purchasedate>
       <membership>Yes</membership>
       <city>Portland</city>
       <state>OR</state>
@@ -74,23 +74,23 @@
     </data>
     <data>
       <customername>Julay Dan</customername>
-      <purchase_date>8/1/2018</purchase_date>
+      <purchasedate>8/1/2018</purchasedate>
       <membership>Yes</membership>
       <city>Seattle</city>
       <state>WA</state>
       <amount>$200.50</amount>
     </data>
     <data>
-      <customer_name>Jeffrey Lee</customer_name>
-      <purchase_date>1/1/2018</purchase_date>
+      <customername>Jeffrey Lee</customername>
+      <purchasedate>1/1/2018</purchasedate>
       <membership>No</membership>
       <city>Longview</city>
       <state>OR</state>
       <amount>$23.28</amount>
     </data>
     <data>
-      <customer_name>Rhona David</customer_name>
-      <purchase_date>2/19/2018</purchase_date>
+      <customername>Rhona David</customername>
+      <purchasedate>2/19/2018</purchasedate>
       <membership>No</membership>
       <city>Salem</city>
       <state>OR</state>
@@ -98,7 +98,7 @@
     </data>
     <data>
       <customername>Sam Frost</customername>
-      <purchase_date>5/22/2018</purchase_date>
+      <purchasedate>5/22/2018</purchasedate>
       <membership>Yes</membership>
       <city>Burien</city>
       <state>WA</state>
@@ -106,7 +106,7 @@
     </data>
     <data>
       <customername>Jane Gaines</customername>
-      <purchase_date>8/3/2018</purchase_date>
+      <purchasedate>8/3/2018</purchasedate>
       <membership>Yes</membership>
       <city>Tacoma</city>
       <state>WA</state>
@@ -114,7 +114,7 @@
     </data>
     <data>
       <customername>Quinn Flynn</customername>
-      <purchase_date>10/1/2018</purchase_date>
+      <purchasedate>10/1/2018</purchasedate>
       <membership>No</membership>
       <city>Seatac</city>
       <state>WA</state>
